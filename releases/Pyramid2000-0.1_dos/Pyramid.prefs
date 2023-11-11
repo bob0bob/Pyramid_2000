@@ -1,0 +1,32 @@
+#jME3 AppSettings
+#Sat Nov 11 03:08:11 CST 2023
+AudioRenderer(string)=LWJGL
+BitsPerPixel(int)=24
+CenterWindow(bool)=false
+DepthBits(int)=24
+DisableJoysticks(bool)=true
+Display(int)=0
+FrameRate(int)=-1
+Frequency(int)=60
+Fullscreen(bool)=false
+GammaCorrection(bool)=false
+Height(int)=1080
+MinHeight(int)=0
+MinWidth(int)=0
+OpenCL(bool)=false
+OpenCLPlatformChooser(string)=com.jme3.opencl.DefaultPlatformChooser
+Renderer(string)=LWJGL-OpenGL33
+Resizable(bool)=false
+Samples(int)=0
+SettingsDialogImage(string)=/com/jme3/app/Monkey.png
+StencilBits(int)=0
+SwapBuffers(bool)=true
+Title(string)=Pyramid 2000
+UseInput(bool)=true
+UseRetinaFrameBuffer(bool)=false
+VSync(bool)=true
+Width(int)=1138
+WindowHeight(int)=-2147483648
+WindowWidth(int)=-2147483648
+WindowXPosition(int)=697
+WindowYPosition(int)=241

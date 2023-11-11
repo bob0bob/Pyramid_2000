@@ -13,6 +13,7 @@ References
 If you seek specific game information, solutions, and online emulators then check out Sean Murphy's wonderful site.
 Solutions and info on Pyramid 2000, Raaka-Tu, and Bedlam:
 http://www.figmentfly.com
+Walk through: https://colorcomputerarchive.com/repo/Documents/Walkthroughs/Pyramid%202000%20Walkthrough%20(Tandy).txt
 
 In August 2007 my article on Text Adventure Gaming was published in Circuit Cellar magazine. I ported the game to play on a Propeller microcontroller. 
 
